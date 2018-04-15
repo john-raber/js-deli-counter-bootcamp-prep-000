@@ -23,4 +23,5 @@ function currentLine(katzDeliLine) {
         line = line + `${x + 1}. ${katzDeliLine[x]}, `;
         x++;
       }
-  }
+    }
+}
