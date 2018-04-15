@@ -24,4 +24,5 @@ function currentLine(katzDeliLine) {
         x++;
       }
     }
+  return line;
 }
