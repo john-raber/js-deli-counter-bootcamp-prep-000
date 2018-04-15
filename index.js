@@ -23,8 +23,8 @@ function currentLine(katzDeliLine) {
         line = line + `${x}. ${katzDeliLine[x - 1]}, `;
         x++;
       }
-    } else {
+  } else {
       line = line + `${katzDeliLine.length}. ${katzDeliLine[katzDeliLine.length - 1]}`;
-    }
+  }
   return line;
 }
