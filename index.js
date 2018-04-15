@@ -13,3 +13,8 @@ function nowServing(katzDeliLine) {
   }
 }
 
+function currentLine(katzDeliLine) {
+  for (n = 0; n < katzDeliLine.length; n++) {
+    if (katzDeliLine)
+  }
+}
